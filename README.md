@@ -2,7 +2,7 @@
 - 💻 Data analyst enthusiast
 - 👨‍🎓 Graduate statistic student from Universitas Negerti Jakarta
 - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/185tkn0bGzzvgXe0ASZ0B6F2kkuhwj1tM/view?usp=sharing)
-- 💾 Check out my portofolio [here!](https://drive.google.com/file/d/1hAJwoPUZ3XbF-iWoFPIplUxiOm5QkoaS/view?usp=sharing)
+- 💾 Check out my portofolio [here!](https://drive.google.com/file/d/11tAalkCScogMGGasPV2bWQWzJZwB5Km6/view?usp=sharing)
 
 ![Adine GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamiladine&show_icons=true&theme=radical)
 
